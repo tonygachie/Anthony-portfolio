@@ -53,17 +53,3 @@ Education
 - **Phone**: +254 719 698 145
 - **Location**: Nairobi, Kenya
 
----
-
-## Download CV
-You can [Download my CV here](#) _(Add link to your CV once uploaded)_
-
----
-
-## Portfolio
-(You can add links/screenshots of your portfolio projects here in future.)
-
----
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
